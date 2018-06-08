@@ -1,0 +1,36 @@
+﻿  g.cpp
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(64): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(65): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(66): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(70): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(71): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(72): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(76): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(77): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(78): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(82): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(83): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(84): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(88): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(89): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(90): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(94): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(95): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(96): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(100): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(101): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(102): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(106): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(107): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(108): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(113): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(114): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(115): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(119): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(120): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(121): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(125): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(126): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(127): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jmand\source\repos\grpphyics\grpphyics\g.cpp(177): warning C4101: 'bpp' :참조되지 않은 지역 변수입니다.
+  Grpphyics.vcxproj -> C:\Users\jmand\source\repos\Grpphyics\Debug\Grpphyics.exe
